@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "version": "1"
+    },
+    "templates": [
+        {
+            "path": "shopee-middleware-operation",
+            "name": "Shopee Middleware Operation",
+            "description": "Shopee Middleware Operation"
+        }
+
+    ]
+}
